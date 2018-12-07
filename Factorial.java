@@ -42,7 +42,7 @@ public class Factorial {
 			System.out.println("There is no integer to be the factorial basis");
 			break;
 		}
-		
+
 	}
 
 }
